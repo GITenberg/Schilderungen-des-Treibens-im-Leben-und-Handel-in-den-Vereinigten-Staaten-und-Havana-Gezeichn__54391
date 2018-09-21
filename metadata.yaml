@@ -1,11 +1,16 @@
 _repo: Schilderungen-des-Treibens-im-Leben-und-Handel-in-den-Vereinigten-Staaten-und-Havana-Gezeichn__54391
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54391-h/images/cover.jpg
 creator:
   author:
     agent_name: Ries, Julius
     gutenberg_agent_id: '47855'
     url: http://www.gutenberg.org/2009/agents/47855
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54391#Schilderungen-des-Treibens-im-Leben-und-Handel-in-den-Vereinigten-Staaten-und-Havana-Gezeichn_
 gutenberg_issued: '2017-03-19'
 gutenberg_type: Text
 identifiers:
